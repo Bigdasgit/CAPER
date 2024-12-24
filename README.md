@@ -5,6 +5,7 @@ Yeon-Chang Lee, JaeHyun Lee, Michiharu Yamashita, Dongwon Lee, Sang-Wook Kim
 Accpeted in ACM KDD 2025
 
 Paper: https://arxiv.org/abs/2408.15620
+
 Same code is in https://github.com/EJHyun/CAPER
 
 ```bibtex
