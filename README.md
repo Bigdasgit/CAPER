@@ -12,7 +12,7 @@ The Same code is in https://github.com/EJHyun/CAPER
 @article{lee2024caperenhancingcareertrajectory,
   author={Yeon-Chang Lee, JaeHyun Lee, Michiharu Yamashita, Dongwon Lee and Sang-Wook Kim},
   title={CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship},
-  book title={In Proceedings of the 31st {ACM} {SIGKDD} International Conference on Knowledge Discovery and Data Mining, Toronto, Ontario, Canada, August 3-7, 2025},
+  booktitle={In Proceedings of the 31st {ACM} {SIGKDD} International Conference on Knowledge Discovery and Data Mining, Toronto, Ontario, Canada, August 3-7, 2025},
   publisher={{ACM}}
   year={2025},
   doi={10.1145/3690624.3709329},
